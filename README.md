@@ -1,8 +1,37 @@
-# webcl-hs20
-module web clients fall semester 2020
+#webcl-hs20
+modulewebclientsfallsemester2020
 
-# week1 Anschluss an WebPr finden
+#week1AnschlussanWebPrfinden
 
-Einfache Todo App mit MVC
+Scriptdividedin3parts
+UIArchitecture-CustomUIElements-Remoting
 
-Github pages under https://webengineering-fhnw.github.io/webcl-hs20/week1/todo/View.html
+Evaluationsystem:
+collectpointsbyaskingquestionsduringthelessons.
+50points=6.0,60%ofthepointsareneededtopassthemodule.
+doneindividuallyundernotesinMSTeams
+
+RepeatedphilosophyoftheModelViewController(MVC).
+Goal1:View,ControllerandModelcompletelyseparated
+Goal2:allviewscompletelyseparated.
+
+Answeredquestionsregardingthecontent:
+-Wewon'tuseaframework.
+-ProgressiveWebApplication(PWA)areusuallypartofthemodulewebprogramming,butcanbepickeduponweek10,if
+requested
+-PWAisalsoawebclient
+-CSS++standsforadvanceduseofCSS
+-Forwebclientwewillonlylookedatthejavascript
+-Wewon'tlookatthedifferencesbetweenthevariousframeworks-->
+-Whatisadependency?Ifyouareinchargeofthecode(notdependentofalatestversion)thenyouarenotdependent
+Self-madeframeworkisnotadependency
+-Wewon'tlookatthedependencyofthedifferentbrowserversions
+-Wewon'tlookathowwemakeawebapplicationresponsive-->WebEngineering
+-Wewilldoautomatedtesting
+-Noneedtoforktheproject.YoucanprogramalongandjustoverwriteyourchangeswithMr.König'scodebypulling
+fromthemasterbranch
+-NoactualdifferencebetweenconstObservable=v=>{}andfunctionObservable(v){}
+thefirstoneismorestable
+
+SimpleTodoAppwithMVC
+Githubpagesunderhttps://webengineering-fhnw.github.io/webcl-hs20/week1/todo/View.html
